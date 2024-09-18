@@ -1,3 +1,3 @@
-# workout Project
+# Workout Project
 
 Workout application using leaflet API
